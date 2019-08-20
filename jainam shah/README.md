@@ -26,7 +26,7 @@ See the arguments in options.py.
 
 python main_fed.py --dataset mnist --num_channels 1 --model cnn --epochs 50 --gpu 0
 
-Model Results
+Model Accuracy Results
 
 1) 10 epochs training with the learning rate of 0.01
 
