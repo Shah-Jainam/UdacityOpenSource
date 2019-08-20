@@ -30,7 +30,7 @@ Model Results
 
 1) 10 epochs training with the learning rate of 0.01
 
-                MNIST   CIFAR10
+                    MNIST   CIFAR10
                 
         FedAVG-MLP	85.66%	72.08%
   
@@ -38,7 +38,7 @@ Model Results
   
 2) 50 epochs training with the learning rate of 0.01
 
-                MNIST   CIFAR10
+                    MNIST   CIFAR10
                 
         FedAVG-MLP	84.42%	88.17%
   
