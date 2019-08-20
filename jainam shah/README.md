@@ -27,13 +27,14 @@ See the arguments in options.py.
 python main_fed.py --dataset mnist --num_channels 1 --model cnn --epochs 50 --gpu 0
 
 Model Results
-1)10 epochs training with the learning rate of 0.01
+
+1) 10 epochs training with the learning rate of 0.01
 
   FedAVG-MLP	85.66%	72.08%
   
   FedAVG-CNN	95.00%	74.92%
   
-2)50 epochs training with the learning rate of 0.01
+2) 50 epochs training with the learning rate of 0.01
 
   FedAVG-MLP	84.42%	88.17%
   
