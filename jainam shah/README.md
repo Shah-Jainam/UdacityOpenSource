@@ -32,15 +32,15 @@ Model Results
 
                 MNIST   CIFAR10
                 
-  FedAVG-MLP	85.66%	72.08%
+        FedAVG-MLP	85.66%	72.08%
   
-  FedAVG-CNN	95.00%	74.92%
+        FedAVG-CNN	95.00%	74.92%
   
 2) 50 epochs training with the learning rate of 0.01
 
                 MNIST   CIFAR10
                 
-  FedAVG-MLP	84.42%	88.17%
+        FedAVG-MLP	84.42%	88.17%
   
-  FedAVG-CNN	98.17%	89.92%
+        FedAVG-CNN	98.17%	89.92%
 
